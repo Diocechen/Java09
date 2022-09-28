@@ -19,7 +19,7 @@ class Namecard{
 		System.out.println("手機號碼:" + data.cell);
 	}
 	
-	class Phone{
+	class Phone{	//(a)
 		private String company;
 		private String cell;
 		public Phone(String s1,String s2){
